@@ -1,0 +1,9 @@
+{
+  "name": "@atos6/prettier-config",
+  "version": "0.0.0",
+  "description": "Company Prettier config",
+  "main": "prettier.config.js",
+  "repository": "git@github.com:raise-sistemas/atos6.prettier-config.git",
+  "author": "Marcos Neves <marcos.neves@gmail.com>",
+  "license": "MIT"
+}
