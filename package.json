@@ -1,6 +1,6 @@
 {
-  "name": "@raise-sistemas/prettier-config",
-  "version": "1.0.0",
+  "name": "@atos6/prettier-config",
+  "version": "0.0.1",
   "description": "Company Prettier config",
   "main": "prettier.config.js",
   "repository": "git@github.com:raise-sistemas/prettier-config.git",

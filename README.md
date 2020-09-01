@@ -1,4 +1,4 @@
-# `@raise-sistemas/prettier-config`
+# `@atos6/prettier-config`
 
 > Company [Prettier](https://prettier.io) config.
 
@@ -11,13 +11,13 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @raise-sistemas/prettier-config
+$ yarn add --dev @atos6/prettier-config
 ```
 
 **Edit `prettier.config.js`**:
 
 ```javascript
-const prettierConfig = require("@raise-sistemas/prettier-config")
+const prettierConfig = require("@atos6/prettier-config")
 
 module.exports = prettierConfig
 ```
