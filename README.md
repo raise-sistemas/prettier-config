@@ -14,10 +14,10 @@
 $ yarn add --dev @atos6/prettier-config
 ```
 
-**Edit `prettier.config.js`**:
+**Edit `package.json`**:
 
-```javascript
-const prettierConfig = require("@atos6/prettier-config")
-
-module.exports = prettierConfig
+```jsonc
+{
+  "prettier": "@atos6/prettier-config"
+}
 ```
